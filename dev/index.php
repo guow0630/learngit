@@ -1,4 +1,3 @@
 <?php
-	echo "3333";
-	echo "22222";
+	echo "hello git!";
 ?>
